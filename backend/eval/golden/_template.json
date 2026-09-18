@@ -1,0 +1,9 @@
+{
+  "id": "policy_01",
+  "input": {"text": "SNS 캡션 원문", "images": ["policy_01_1.jpg"]},
+  "expected": {
+    "fields": {"title": "", "organization": "", "apply_period": {"start": "", "end": ""}, "benefit_amount": "", "target": ""},
+    "official_url": "https://",
+    "conflict_fields": []
+  }
+}
